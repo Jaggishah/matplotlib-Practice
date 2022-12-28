@@ -11,4 +11,5 @@ plt.xlabel("X Axis")
 plt.ylabel("Y Axis")
 plt.legend()
 plt.savefig("mypic.png",dpi = 300)
+# xticks,yticks
 plt.show()
